@@ -1,2 +1,2 @@
-# Ecoomerce-Dashboard
-Ecommerce Dashboard Using Power Bi
+# Ecomerce-Sales-Dashboard
+Ecommerce Sales Dashboard Using Power Bi
